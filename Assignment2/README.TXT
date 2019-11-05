@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Parking Application
+PURPOSE OF PROJECT: Learning
+VERSION or DATE: 05/11/19
+HOW TO START THIS PROJECT: 
+AUTHORS: Tamandeep Singh
+USER INSTRUCTIONS: Install JVM > Compile code > Run
