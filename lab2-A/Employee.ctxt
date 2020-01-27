@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Employee
+comment0.text=\n\ Lab2-A\ \n\ Class\ Employee\n\ @version\ 1.0\n\ @author\ Tamandeep\ Singh\n
+comment1.params=
+comment1.target=Employee()
+comment1.text=\n\ Constructor\ Employee\ with\ no\ arguments\n
+comment2.params=inputEmpName\ inputEmpAddress\ empAge\ inputNumberOfYearsEmployeed\ inputPay\ fullTime
+comment2.target=Employee(java.lang.String,\ java.lang.String,\ int,\ int,\ double,\ boolean)
+comment2.text=\n\ Constructor\ Employee\n\ @param\ inputEmpName\ sets\ employeeName\n\ @param\ inputEmpAddress\ sets\ employeeAddress\n\ @param\ empAge\ sets\ employeeAgeInYears\n\ @param\ inputNumberOfYearsEmployeed\ sets\ numberOfYearsEmployeed\n\ @param\ inputPay\ sets\ annualPayInCAD\n\ @param\ fullTime\ sets\ isFullTime\n
+numComments=3

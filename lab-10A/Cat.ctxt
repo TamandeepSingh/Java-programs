@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Cat
+comment0.text=\n\ @author\ Tamandeep\ Singh\n\ @version\ lab-10A\n
+comment1.params=inputName\ inputBirthYear\ inputWeightInKilos
+comment1.target=Cat(java.lang.String,\ int,\ double)
+comment1.text=\n\ Cat\ Constructor\n\n\ @param\ inputName\ A\ parameter\n\ @param\ inputBirthYear\ A\ parameter\n\ @param\ inputWeightInKilos\ A\ parameter\n
+comment2.params=inputName
+comment2.target=void\ setNameOfCat(java.lang.String)
+comment2.text=\n\ Method\ setNameOfCat\n\n\ @param\ inputName\ A\ parameter\n
+comment3.params=inputBirthYear
+comment3.target=void\ setYearOfBirth(int)
+comment3.text=\n\ Method\ setYearOfBirth\n\n\ @param\ inputBirthYear\ A\ parameter\n
+comment4.params=inputWeightInKilos
+comment4.target=void\ setWeightInkilos(double)
+comment4.text=\n\ Method\ setWeightInkilos\n\n\ @param\ inputWeightInKilos\ A\ parameter\n
+comment5.params=
+comment5.target=java.lang.String\ getNameOfCat()
+comment5.text=\n\ Method\ getNameOfCat\n\n\ @return\ The\ return\ value\n
+comment6.params=
+comment6.target=int\ getYearOfBirth()
+comment6.text=\n\ Method\ getYearOfBirth\n\n\ @return\ The\ return\ value\n
+comment7.params=
+comment7.target=double\ getWeightInkilos()
+comment7.text=\n\ Method\ getWeightInkilos\n\n\ @return\ The\ return\ value\n
+numComments=8

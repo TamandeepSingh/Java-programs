@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=StockPurchase
+comment0.text=\n\ @author\ Tamandeep\ Singh\n\ @version\ lab-7B-1.0\n
+comment1.params=
+comment1.target=StockPurchase()
+comment1.text=\n\ StockPurchase\ Constructor\n\n
+comment2.params=inputStock\ inputNumOfShares
+comment2.target=StockPurchase(Stock,\ int)
+comment2.text=\n\ StockPurchase\ Constructor\n\n\ @param\ inputStock\ A\ parameter\n\ @param\ inputNumOfShares\ A\ parameter\n
+comment3.params=inputStock
+comment3.target=void\ setStock(Stock)
+comment3.text=\n\ Method\ setStock\n\n\ @param\ inputStock\ A\ parameter\n
+comment4.params=inputNumOfShares
+comment4.target=void\ setNumberOfShares(int)
+comment4.text=\n\ Method\ setNumberOfShares\n\n\ @param\ inputNumOfShares\ A\ parameter\n
+comment5.params=
+comment5.target=Stock\ getStock()
+comment5.text=\n\ Method\ getStock\n\n\ @return\ The\ return\ value\n
+comment6.params=
+comment6.target=int\ getNumberOfShares()
+comment6.text=\n\ Method\ getNumberOfShares\n\n\ @return\ The\ return\ value\n
+comment7.params=
+comment7.target=double\ getTotalCost()
+comment7.text=\n\ Method\ getTotalCost\n\n\ @return\ The\ return\ value\n
+numComments=8

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BookClub
+comment0.text=\n\ @author\ Tamandeep\ Singh\n\ @version\ Lab4-B-1.0\n
+comment1.params=cName\ purchasedBooks
+comment1.target=BookClub(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ with\ arguments\n\ @param\ cName\ sets\ clientName\n\ @param\ purchasedBooks\ sets\ numberOfPurchasedBooksPerMonth\n
+comment2.params=
+comment2.target=java.lang.String\ getClientName()
+comment2.text=\n\ @return\ clientName\n
+comment3.params=
+comment3.target=int\ getNumberOfPurchasedBooksPerMonth()
+comment3.text=\n\ @return\ numberOfPurchasedBooksPerMonth\n
+comment4.params=
+comment4.target=int\ getTotalNumberOfSoldBooks()
+comment4.text=\n\ @return\ totalNumberOfSoldBooks\n
+comment5.params=cName
+comment5.target=void\ setClientName(java.lang.String)
+comment5.text=\n\ @param\ cName\ sets\ clientName\n
+comment6.params=purchasedBooks
+comment6.target=void\ setNumberOfPurchasedBooksPerMonth(int)
+comment6.text=\n\ @param\ purchasedBooks\ sets\ numberOfPurchasedBooksPerMonth\n
+comment7.params=
+comment7.target=int\ calculateBookPoints()
+comment7.text=\n\ @return\ pointsEarned\n
+numComments=8

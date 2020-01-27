@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PoliceDepartment
+comment1.params=inputAddress
+comment1.target=PoliceDepartment(java.lang.String)
+comment1.text=\n\ PoliceDepartment\ Constructor\n\n\ @param\ inputAddress\ A\ parameter\n
+comment2.params=inputAddress
+comment2.target=void\ setAddress(java.lang.String)
+comment2.text=\n\ Method\ setAddress\n\n\ @param\ inputAddress\ A\ parameter\n
+comment3.params=
+comment3.target=java.lang.String\ getAddress()
+comment3.text=\n\ Method\ getAddress\n\n\ @return\ The\ return\ value\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getOfficerList()
+comment4.text=\n\ Method\ getOfficerList\n\n\ @return\ The\ return\ value\n
+comment5.params=inputOfficer
+comment5.target=void\ addPoliceOfficer(PoliceOfficer)
+comment5.text=\n\ Method\ addPoliceOfficer\n\n\ @param\ inputOfficer\ A\ parameter\n
+comment6.params=officerName
+comment6.target=void\ displayTicketsByOfficer(java.lang.String)
+comment6.text=\n\ Method\ displayTicketsByOfficer\n\n\ @param\ officerName\ A\ parameter\n
+comment7.params=
+comment7.target=double\ calculateSumOfAllTicketsOfAllOfficers()
+comment7.text=\n\ Method\ calculateSumOfAllTicketsOfAllOfficers\n\n\ @return\ The\ return\ value\n
+comment8.params=inputLicensePlateNumber
+comment8.target=int\ totalParkingTicketCountOfACar(java.lang.String)
+comment8.text=\n\ Method\ totalParkingTicketCountOfACar\n\n\ @param\ inputLicensePlateNumber\ A\ parameter\n\ @return\ The\ return\ value\n
+numComments=9

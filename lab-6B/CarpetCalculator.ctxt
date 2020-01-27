@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CarpetCalculator
+comment0.text=\n\ @author\ Tamandeep\ Singh\n\ @version\ lab6B-1.0\n
+comment1.params=priceOfCarpet\ inputRoom
+comment1.target=CarpetCalculator(double,\ Room)
+comment1.text=\n\ CarpetCalculator\ Constructor\n\n\ @param\ priceOfCarpet\ A\ parameter\n\ @param\ inputRoom\ A\ parameter\n
+comment2.params=
+comment2.target=double\ getPricePerSquareFoot()
+comment2.text=\n\ Method\ getPricePerSquareFoot\n\n\ @return\ The\ return\ value\n
+comment3.params=
+comment3.target=Room\ getRoom()
+comment3.text=\n\ Method\ getRoom\n\n\ @return\ The\ return\ value\n
+comment4.params=priceOfCarpet
+comment4.target=void\ setPricePerSquareFoot(double)
+comment4.text=\n\ Method\ setPricePerSquareFoot\n\n\ @param\ priceOfCarpet\ A\ parameter\n
+comment5.params=inputRoom
+comment5.target=void\ setRoom(Room)
+comment5.text=\n\ Method\ getRoom\n\n\ @param\ inputRoom\ A\ parameter\n
+comment6.params=
+comment6.target=double\ calculateTotalCost()
+comment6.text=\n\ Method\ calculateTotalCost\n\n\ @return\ The\ return\ value\n
+comment7.params=
+comment7.target=void\ displayDetails()
+comment7.text=\n\ Method\ displayDetails\n\n
+numComments=8

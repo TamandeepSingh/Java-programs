@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DriverExam
+comment0.text=\n\ @author\ Tamandeep\ Singh\n\ @version\ lab-8A\n
+comment1.params=
+comment1.target=DriverExam()
+comment1.text=\n\ DriverExam\ Constructor\n\n
+comment2.params=
+comment2.target=void\ promptStudentAnswers()
+comment2.text=\n\ Method\ promptStudentAnswers\n\n
+comment3.params=
+comment3.target=int\ getTotalCorrectAnswers()
+comment3.text=\n\ Method\ getTotalCorrectAnswers\n\n\ @return\ The\ return\ value\n
+comment4.params=
+comment4.target=int\ getTotalIncorrectAnswers()
+comment4.text=\n\ Method\ getTotalIncorrectAnswers\n\n\ @return\ The\ return\ value\n
+comment5.params=
+comment5.target=boolean\ isPass()
+comment5.text=\n\ Method\ isPass\n\n\ @return\ The\ return\ value\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+comment6.text=\n\ Method\ main\n\n\ @param\ args\ A\ parameter\n
+numComments=7

@@ -9,11 +9,11 @@ public class Driver{
      * @param args A parameter
      */
     public static void main(String[] args){
-        ParkedCar car = new ParkedCar("Taman", "Honda", 2002, "Va332", 125);
+        ParkedCar car = new ParkedCar("Taman", "Honda", 2004, "KU78Q", 125);
         car.displayDetails();
         ParkingMeter meter = new ParkingMeter("Vancouver", true, 10, 60);
         meter.displayDetails();
-        PoliceOfficer officer = new PoliceOfficer("Patrick", "vaee4");
+        PoliceOfficer officer = new PoliceOfficer("Patrick", "p1234p");
         officer.issueParkingTicket(car, meter);
         
     }

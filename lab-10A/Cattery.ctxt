@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Cattery
+comment1.params=inputNameOfBusiness
+comment1.target=Cattery(java.lang.String)
+comment1.text=\n\ Cattery\ Constructor\n\n\ @param\ inputNameOfBusiness\ A\ parameter\n
+comment2.params=inputNameOfBusiness
+comment2.target=void\ setNameOfBusiness(java.lang.String)
+comment2.text=\n\ Method\ setNameOfBusiness\n\n\ @param\ inputNameOfBusiness\ A\ parameter\n
+comment3.params=
+comment3.target=java.lang.String\ getNameOfBusiness()
+comment3.text=\n\ Method\ getNameOfBusiness\n\n\ @return\ The\ return\ value\n
+comment4.params=newCat
+comment4.target=void\ addCat(Cat)
+comment4.text=\n\ Method\ addCat\n\n\ @param\ newCat\ A\ parameter\n
+comment5.params=index
+comment5.target=void\ getCat(int)
+comment5.text=\n\ Method\ getCat\n\n\ @param\ index\ A\ parameter\n
+comment6.params=index
+comment6.target=void\ removeCat(int)
+comment6.text=\n\ Method\ removeCat\n\n\ @param\ index\ A\ parameter\n
+comment7.params=
+comment7.target=void\ displayAllCats()
+comment7.text=\n\ Method\ displayAllCats\n\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment8.text=\n\ Method\ main\n\n\ @param\ args\ A\ parameter\n
+numComments=9

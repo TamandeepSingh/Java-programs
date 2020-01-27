@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RetailItem
+comment0.text=\n\ Program\ for\ RetailItems\n\ @author\ Tamandeep\ Singh\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=RetailItem()
+comment1.text=\n\ Constuctor\ with\ no\ args\n
+comment2.params=inputItemDesc\ ipnutItemPrice\ inputInDemand\ inputNumberOfUnits
+comment2.target=RetailItem(java.lang.String,\ double,\ boolean,\ int)
+comment2.text=\n\ Constructor\ with\ arguments\n\ @param\ inputItemDesc\ sets\ itemDescription\n\ @param\ ipnutItemPrice\ sets\ itemPriceInCAD\n\ @param\ inputInDemand\ sets\ isInDemand\n\ @param\ inputNumberOfUnits\ sets\ numberOfUnitsInStock\n
+numComments=3

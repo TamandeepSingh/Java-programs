@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=FuelGuage
+comment0.text=\n\ @author\ Tamandeep\ Singh\n\ @version\ lab-7A\n
+comment1.params=
+comment1.target=FuelGuage()
+comment1.text=\n\ FuelGuage\ Constructor\n\n
+comment2.params=inputAmountOfFuel
+comment2.target=FuelGuage(int)
+comment2.text=\n\ FuelGuage\ Constructor\n\n\ @param\ inputAmountOfFuel\ A\ parameter\n
+comment3.params=inputAmountOfFuel
+comment3.target=void\ setAmoutOfFuelInLitres(int)
+comment3.text=\n\ Method\ setAmoutOfFuelInLitres\n\n\ @param\ inputAmountOfFuel\ A\ parameter\n
+comment4.params=
+comment4.target=int\ getAmoutOfFuelInLitres()
+comment4.text=\n\ Method\ getAmoutOfFuelInLitres\n\n\ @return\ The\ return\ value\n
+comment5.params=
+comment5.target=void\ useFuel()
+comment5.text=\n\ Method\ useFuel\n\n
+comment6.params=
+comment6.target=void\ addFuel()
+comment6.text=\n\ Method\ addFuel\n\n
+numComments=7

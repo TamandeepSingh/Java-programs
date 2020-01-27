@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MathUitilites
+comment0.text=\n\ @author\ Tamandeep\ Singh\n\ @version\ lab5A-1.0\n
+comment1.params=base\ exponent
+comment1.target=int\ power(int,\ int)
+comment1.text=\n\ public\ static\ method\ to\ find\ exponent\ of\ a\ number\n\ @param\ base\ sets\ base\ \n\ @param\ exponent\ sets\ exponent\n\ @return\ result\n
+comment2.params=firstNumber\ operator\ secondNumber
+comment2.target=void\ calculator(double,\ char,\ double)
+comment2.text=\n\ public\ static\ method\ to\ calculates\ with\ char\ +,-,*,/,%\n\ @param\ firstNumber\ sets\ firstNumber\ \n\ @param\ operator\ sets\ operator\n\ @param\ secondNumber\ sets\ secondNumber\n
+comment3.params=number
+comment3.target=void\ sumOddNumbers(int)
+comment3.text=\n\ public\ static\ method\ to\ calculates\ sum\ of\ all\ odd\ numbers\n\ @param\ number\ sets\ number\ \n
+comment4.params=number
+comment4.target=void\ displaySquareNumbers(int)
+comment4.text=\n\ public\ static\ method\ to\ calculates\ and\ displays\ the\ squares\ of\ all\ numbers\ till\ a\ given\ number\n\ @param\ number\ sets\ number\n
+comment5.params=number
+comment5.target=void\ getFactorial(int)
+comment5.text=\n\ public\ static\ method\ to\ calculates\ and\ prints\ the\ factorial\ of\ the\ given\ number\n\ @param\ number\ sets\ number\ \n
+numComments=6
